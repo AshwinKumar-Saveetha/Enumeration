@@ -142,14 +142,16 @@ Open terminal and try execute some kali linux commands
 
 <img width="1065" height="781" alt="Screenshot 2025-09-08 092305" src="https://github.com/user-attachments/assets/de666dc4-4624-4069-b8cf-71ee9bc40632" />
 <br>
-<img width="1056" height="656" alt="Screenshot 2025-09-08 092350" src="https://github.com/user-attachments/assets/fb4837d3-7991-48e9-8e53-3baaa026c3a9" />
+<img width="1056" height="656" alt="Screenshot 2025-09-08 092350" src="https://github.com/user-attachments/assets/65c8c813-09d4-4789-857a-604a5a759cd4" />
 
 
 # FIERCE
-<img width="763" height="996" alt="fierce exp 3" src="https://github.com/user-attachments/assets/683ca218-93f0-49d8-9bfa-169d06cf2226" />
+
+<img width="548" height="601" alt="image" src="https://github.com/user-attachments/assets/b7ab2888-326c-4cfd-b052-722483a8e063" />
 
 # HARVESTER
-<img width="723" height="725" alt="Harvester exp 3" src="https://github.com/user-attachments/assets/be204124-6c7b-4dc7-a434-4d6c71cbccf9" />
+
+<img width="557" height="626" alt="image" src="https://github.com/user-attachments/assets/094e1c23-46ba-43cf-bcb2-712292f0931a" />
 
 ## Architecture Diagram 
 ```
@@ -189,8 +191,9 @@ dnsenum example.com
 ```
 
 ## Output:
-<img width="658" height="471" alt="Screenshot 2025-08-25 204202" src="https://github.com/user-attachments/assets/7b5ee759-3c92-4ec1-a3fc-7e52ccb99aa4" />
-
+<img width="664" height="667" alt="Screenshot 2025-09-08 091351" src="https://github.com/user-attachments/assets/50852a95-da93-4e7c-a196-1e4402382fbe" />
+<br>
+<img width="782" height="538" alt="Screenshot 2025-09-08 091422" src="https://github.com/user-attachments/assets/b2e9ee0d-d036-4f36-abe2-cf1a7de51e43" />
 
 
 
@@ -204,8 +207,8 @@ smtp-user-enum -M VRFY -U users.txt -t <target-ip>
 ```
   
  ## Output
-<img width="680" height="370" alt="Screenshot 2025-08-25 202131" src="https://github.com/user-attachments/assets/e4c7471f-0524-4c3c-85f0-80ef250ebb1b" />
 
+<img width="646" height="396" alt="image" src="https://github.com/user-attachments/assets/e717c1ac-1188-4a5d-92fb-468225f7fff7" />
 
 
 ## nmap –script smtp-enum-users.nse <hostname>
@@ -218,8 +221,8 @@ smtp-user-enum -M VRFY -U users.txt -t <target-ip>
 nmap -p 25 --script smtp-enum-users.nse <target-ip>
 ```
 ## OUTPUT:
-<img width="681" height="137" alt="Screenshot 2025-08-25 202159" src="https://github.com/user-attachments/assets/bc1327b9-914d-47f7-b4df-c5c81c96d293" />
 
+<img width="625" height="186" alt="image" src="https://github.com/user-attachments/assets/c715ffc6-6a9e-49a0-8722-34c02974a675" />
 
 ## RESULT:
 The Google hacking keywords and enumeration tools were identified and executed successfully
