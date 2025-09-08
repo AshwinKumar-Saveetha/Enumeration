@@ -62,31 +62,40 @@ Open terminal and try execute some kali linux commands
 
 
 # INURL
-<img width="687" height="766" alt="inurl ex3" src="https://github.com/user-attachments/assets/4c982901-e20e-47fd-a614-c044f0435f9e" />
+
+<img width="1322" height="1020" alt="Screenshot 2025-09-04 084333" src="https://github.com/user-attachments/assets/e1639af9-74d3-46ae-ba03-f4069e62388d" />
 
 # INTITLE
-<img width="688" height="772" alt="intitle ex3" src="https://github.com/user-attachments/assets/bc95ab33-88c7-4f08-b3af-0fc34ed2acf8" />
+
+<img width="1331" height="725" alt="Screenshot 2025-09-04 084620" src="https://github.com/user-attachments/assets/8e1c5da3-76c0-4a74-a38a-d50540def9c0" />
 
 # FILETYPE
-<img width="687" height="762" alt="Screenshot 2025-08-25 203146" src="https://github.com/user-attachments/assets/78c104a4-f091-4a54-9654-7c8ecf4aa03e" />
+
+<img width="1317" height="1004" alt="Screenshot 2025-09-04 084754" src="https://github.com/user-attachments/assets/2303f865-778a-409d-b9b1-f50c9b5695dc" />
 
 # INTEXT
-<img width="682" height="767" alt="intext ex 3" src="https://github.com/user-attachments/assets/63adadc2-1f1c-4fc4-85e9-e5b5d0c80b0a" />
+
+<img width="1323" height="997" alt="Screenshot 2025-09-04 084837" src="https://github.com/user-attachments/assets/6fbad445-10d7-475e-9ae5-47f69a71395a" />
 
 # LINK
-<img width="687" height="765" alt="link ex3" src="https://github.com/user-attachments/assets/bb0cd924-f604-4b09-af6b-9f53a1caf352" />
 
-# CACHE
-<img width="682" height="763" alt="cache ex3" src="https://github.com/user-attachments/assets/8e9222c7-7e63-433d-8da8-6f2e5259a1f3" />
+<img width="1327" height="1008" alt="Screenshot 2025-09-04 084940" src="https://github.com/user-attachments/assets/e51fb09d-f0d7-4333-8523-696ace8e7212" />
 
 # EXT
-<img width="686" height="768" alt="ext ex3" src="https://github.com/user-attachments/assets/9b786d95-9d14-4015-8ccb-a72d6115c004" />
+
+<img width="1318" height="1016" alt="image" src="https://github.com/user-attachments/assets/b18edf71-d94e-4958-b46b-4b351eba3a43" />
 
 # DNS Enumeration
-<img width="637" height="910" alt="Screenshot 2025-08-25 201434" src="https://github.com/user-attachments/assets/ec94ccaf-8750-457c-96ff-549001e88456" />
+
+<img width="663" height="667" alt="image" src="https://github.com/user-attachments/assets/bb72e509-00f0-4815-9577-d70be7bac04a" />
+<br>
+<img width="782" height="537" alt="image" src="https://github.com/user-attachments/assets/d5d6889d-fe3d-4b2f-8980-d5e27ba7ad3b" />
 
 ## DNS Recon
-<img width="641" height="538" alt="Screenshot 2025-08-25 201550" src="https://github.com/user-attachments/assets/652769c5-bb4e-45bb-8f7e-e44ddba323be" />
+
+<img width="1065" height="781" alt="image" src="https://github.com/user-attachments/assets/f918dc34-f35c-490f-aa28-ffa01a88270b" />
+<br>
+
 
 | Record Type | Meaning                        | Example Output                   |
 | ----------- | ------------------------------ | -------------------------------- |
@@ -112,19 +121,29 @@ Open terminal and try execute some kali linux commands
 
 ## OUTPUT:
 # NSLOOKUP
-<img width="703" height="821" alt="NS lookup exp 3" src="https://github.com/user-attachments/assets/8a318853-1550-47f5-9346-58debc54f552" />
+
+<img width="272" height="192" alt="Screenshot 2025-09-08 093225" src="https://github.com/user-attachments/assets/ab1f3344-babd-4ae3-91b0-36cabb8debae" />
 
 # DIG
-<img width="644" height="634" alt="Screenshot 2025-08-25 201643" src="https://github.com/user-attachments/assets/6e031a87-8aa2-4663-91ad-512ecff7f3bb" />
+
+<img width="1014" height="643" alt="Screenshot 2025-09-08 093144" src="https://github.com/user-attachments/assets/9a236c01-3088-42db-87c9-d17a7a80d725" />
 
 # HOST
-<img width="639" height="448" alt="Screenshot 2025-08-25 201729" src="https://github.com/user-attachments/assets/17703ab1-2e29-4441-a98b-9e6a88332dc4" />
 
-# DNSSENUM
-<img width="641" height="745" alt="Screenshot 2025-08-25 201827" src="https://github.com/user-attachments/assets/3c799a74-4d6a-40f0-b861-9468f98cd2a5" />
+<img width="509" height="210" alt="Screenshot 2025-09-08 093515" src="https://github.com/user-attachments/assets/a9b10b7d-77a5-47c2-8da7-86cfade42f92" />
+
+# DNSENUM
+
+<img width="664" height="667" alt="Screenshot 2025-09-08 091351" src="https://github.com/user-attachments/assets/50852a95-da93-4e7c-a196-1e4402382fbe" />
+<br>
+<img width="782" height="538" alt="Screenshot 2025-09-08 091422" src="https://github.com/user-attachments/assets/b2e9ee0d-d036-4f36-abe2-cf1a7de51e43" />
 
 # DNSRECON
-<img width="639" height="834" alt="Screenshot 2025-08-25 201953" src="https://github.com/user-attachments/assets/c296e331-a2dc-437d-a097-55599e4fd3f6" />
+
+<img width="1065" height="781" alt="Screenshot 2025-09-08 092305" src="https://github.com/user-attachments/assets/de666dc4-4624-4069-b8cf-71ee9bc40632" />
+<br>
+<img width="1056" height="656" alt="Screenshot 2025-09-08 092350" src="https://github.com/user-attachments/assets/fb4837d3-7991-48e9-8e53-3baaa026c3a9" />
+
 
 # FIERCE
 <img width="763" height="996" alt="fierce exp 3" src="https://github.com/user-attachments/assets/683ca218-93f0-49d8-9bfa-169d06cf2226" />
